@@ -51,9 +51,9 @@ You have several options to get them answered:
 
 - The [Kubee Add-ons Discord chat server][discord] for add-on
   support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
+- The [Kubee Discord chat server][discord-ha] for general Home
   Assistant discussions and questions.
-- The Home Assistant [Community Forum][forum].
+- The Kubee [Community Forum][forum].
 - Join the [Reddit subreddit][reddit] in [/r/Kubee][reddit]
 
 You could also [open an issue here][issue] GitHub.
@@ -75,11 +75,11 @@ The original setup of this repository is by [Romeo Covaci][romeo].
 For a full list of all authors and contributors,
 check [the contributor's page][contributors].
 
-## We have got some Home Assistant add-ons for you
+## We have got some Kubee add-ons for you
 
-Want some more functionality to your Home Assistant instance?
+Want some more functionality to your Kubee instance?
 
-We have created multiple add-ons for Home Assistant. For a full list, check out
+We have created multiple add-ons for Kubee. For a full list, check out
 our [GitHub Repository][repository].
 
 ## License

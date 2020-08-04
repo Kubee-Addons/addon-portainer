@@ -35,7 +35,7 @@ LABEL \
     maintainer="Romeo Covaci <frenck@addons.community>" \
     org.opencontainers.image.title="Portainer" \
     org.opencontainers.image.description="Manage your Docker environment with ease" \
-    org.opencontainers.image.vendor="Home Assistant Community Add-ons" \
+    org.opencontainers.image.vendor="Kubee Community Add-ons" \
     org.opencontainers.image.authors="Romeo Covaci <frenck@addons.community>" \
     org.opencontainers.image.licenses="MIT" \
     org.opencontainers.image.url="https://addons.community" \

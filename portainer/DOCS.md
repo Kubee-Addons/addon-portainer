@@ -1,4 +1,4 @@
-# Home Assistant Community Add-on: Portainer
+# Kubee Community Add-on: Portainer
 
 Portainer is an open-source lightweight management UI which allows you to
 easily manage a Docker host(s) or Docker swarm clusters.
@@ -17,7 +17,7 @@ it could damage your system.
 ## Installation
 
 The installation of this add-on is pretty straightforward and no different
-compared to installing any other Home Assistant add-on.
+compared to installing any other Kubee add-on.
 
 To be able to use this add-on, you'll need to disable protection mode on this
 add-on. Without it, the add-on is unable to access Docker.
@@ -66,8 +66,8 @@ as an Environment variable.
 
 ## Known issues and limitations
 
-By default all Home Assistant managed containers are hidden from Portainer.
-This is recommended since fooling around with Home Assistant managed containers
+By default all Kubee managed containers are hidden from Portainer.
+This is recommended since fooling around with Kubee managed containers
 can easily lead to a broken system.
 
 Access to these containers can be gained by going into Portainer ->
@@ -94,11 +94,11 @@ Got questions?
 
 You have several options to get them answered:
 
-- The [Home Assistant Community Add-ons Discord chat server][discord] for add-on
+- The [Kubee Community Add-ons Discord chat server][discord] for add-on
   support and feature requests.
-- The [Home Assistant Discord chat server][discord-ha] for general Home
+- The [Kubee Discord chat server][discord-ha] for general Home
   Assistant discussions and questions.
-- The Home Assistant [Community Forum][forum].
+- The Kubee [Community Forum][forum].
 - Join the [Reddit subreddit][reddit] in [/r/homeassistant][reddit]
 
 You could also [open an issue here][issue] GitHub.
